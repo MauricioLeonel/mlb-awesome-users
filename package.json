@@ -1,15 +1,27 @@
 {
   "name": "mlb-awesome-users",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["users","coder"],
+  "keywords": [
+    "users",
+    "coder"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioLeonel/mlb-awesome-users.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MauricioLeonel/mlb-awesome-users/issues"
+  },
+  "homepage": "https://github.com/MauricioLeonel/mlb-awesome-users#readme",
+  "description": ""
 }
