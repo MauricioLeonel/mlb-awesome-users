@@ -1,2 +1,2 @@
-# awasome Get user
+# awesome Get user
 
